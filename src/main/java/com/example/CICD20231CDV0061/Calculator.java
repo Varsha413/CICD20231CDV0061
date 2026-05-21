@@ -1,5 +1,14 @@
-package com.example.CICD20231CDV0061;
+package com.example.lab1practice;
 
 public class Calculator {
 
+    public static void main(String[] args) {
+
+        int a = 10;
+        int b = 20;
+
+        int sum = a + b;
+
+        System.out.println("Addition = " + sum);
+    }
 }
