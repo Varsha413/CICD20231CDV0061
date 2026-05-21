@@ -1,4 +1,4 @@
-package com.example.lab1practice;
+package com.example;
 
 public class Calculator {
 
